@@ -47,7 +47,7 @@ export class Hero2{
                 public realName: string,
                 public person: Person,
     ){
-        //this.persona(realName, 'Pindolas')
+        //this.persona(realName, 'Pinland')
     }
 }
 
