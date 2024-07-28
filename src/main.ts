@@ -8,8 +8,9 @@ import './topics/05-destructuring'
 import './topics/07-import-export'
 import './topics/08-classes'
 import './topics/09-generics'
-
+import './topics/10-decorators'
+import './topics/11-chaining-optional'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
-   VITE TYPESCRIPT VERANO 2024
+   VITE TYPESCRIPT VERANO 2024 -> VER CARPETA TOPICS
 `
